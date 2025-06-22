@@ -1,0 +1,55 @@
+h1{
+    color: green;
+    font-family: sans-serif;
+    font size: 50px;
+    text-align: center;
+}
+
+h2{
+    color: darkgreen;
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    font size: 35px;
+}
+
+h3{
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    color: darkgreen;
+    text-align: left;
+    font size: 35px;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: greenyellow;
+    text-align: center;
+    font-size: 45px;
+}
+h5{
+    font-family: cursive;
+    font-size: 35px;
+}
+
+p{
+    color: black;
+    font-family: cursive;
+}
+
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    pading: 5px;
+}
+
+a:hover{
+    background-color: aqua;
+    color: #ffffff;
+}
